@@ -11,5 +11,4 @@ Este proyecto es un modelo simple de cómo usar una API externa y mostrarla en t
 
 ## Imágenes
 ![Title Screenshot](src/assets/imgs/titulo.png)
-
 ![Cards Screenshot](src/assets/imgs/tarjetas.png)
