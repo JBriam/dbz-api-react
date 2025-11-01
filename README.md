@@ -1,16 +1,21 @@
-# React + Vite
+# API DRAGON BALL Z
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un modelo simple de cómo usar una API externa y mostrarla en tarjetas estilizadas con CSS usando React y Vite.
 
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Instalación
+1. Abre la terminal e ingresa a una ubicación en específico
+2. Clona el repositorio: `git clone https://github.com/JBriam/dbz-api-react.git`
+3. Ingresa al directorio: `cd dbz-api-react`
+4. Instala las dependencias: `npm install`
+5. Ejecuta el proyecto: `npm run dev`
 
-## Expanding the ESLint configuration
+## Imágenes
+![Title Screenshot](/assets/imgs/titulo.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Cards Screenshot](/assets/imgs/tarjetas.png)
